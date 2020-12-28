@@ -1,1 +1,2 @@
-# csgo-i-don-t-understand
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
